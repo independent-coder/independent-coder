@@ -1,6 +1,11 @@
+
 # Hi there! 👋
-I'm an independent coder, also known as [Mr.Programs](https://www.youtube.com/channel/UCmRLV3Bga2Oo54sM-d3CJPg) ![Static Badge](https://img.shields.io/badge/:badgeContent)
+I'm an independent coder, also known as [![Channel](https://img.shields.io/badge/Mr.Programs-View%20Channel-blue?style=flat&logo=youtube)](https://www.youtube.com/channel/UCmRLV3Bga2Oo54sM-d3CJPg)
 . Welcome to my GitHub profile! Here are a few things you should know about me:
+
+
+[![Channel](https://img.shields.io/badge/Mr.Programs-View%20Channel-blue?style=flat&logo=youtube)](https://www.youtube.com/channel/UCmRLV3Bga2Oo54sM-d3CJPg)
+
 
 ## What I'm working on?
 
@@ -17,6 +22,20 @@ I'm an independent coder, also known as [Mr.Programs](https://www.youtube.com/ch
 ## Where can you reach me?
 
 📫 You can contact me on Discord at pingui_8163. I'm always open to collaboration and connecting with fellow tech enthusiasts!
+
+
+
+## Languages I Understand/Know
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white" alt="Python Logo">
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS Logo">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5 Logo">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript Logo">
+  <img src="https://img.shields.io/badge/Batch-%23111111.svg?style=flat&logo=windows&logoColor=white" alt="Batch Logo">
+</p>
+
+
 
 ## A little fun fact!
 
