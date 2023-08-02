@@ -1,26 +1,27 @@
 # Hi there! 👋
-I'm an independent coder or [Mr.Programs](https://www.youtube.com/channel/UCmRLV3Bga2Oo54sM-d3CJPg) Welcome to my GitHub profile! Here are a few things you should know about me:
+I'm an independent coder, also known as [Mr.Programs](https://www.youtube.com/channel/UCmRLV3Bga2Oo54sM-d3CJPg) ![Static Badge](https://img.shields.io/badge/:badgeContent)
+. Welcome to my GitHub profile! Here are a few things you should know about me:
 
-# What im working on ?
+## What I'm working on?
 
-🔭 Currently, I'm working on an exciting hacking tool project that can grab some account cokies.
+🔭 Currently, I'm developing an exciting hacking tool project that can grab some account cookies.
 
-# What language I parctice ?
+## What languages do I practice?
 
-🌱 I'm always learning and expanding my skillset, with a primary focus on Python, HTML, and CSS. Embracing continuous growth is what keeps me excited about the journey of coding.
+🌱 I'm always learning and expanding my skillet, focusing primarily on Python, HTML, and CSS. Embracing continuous growth keeps me excited about the coding journey.
 
-# Any question about Python CSS or Html ? 
+## Questions about Python, CSS, or HTML?
 
 💬 Feel free to ask me anything related to Python! Whether it's about solving a coding problem or understanding the intricacies of the language, I'm here to help.
 
-# Where can you reach me out ?
+## Where can you reach me?
 
-📫 You can reach out to me on Discord at pingui_8163. I'm always open to collaboration and connecting with fellow tech enthusiasts!
+📫 You can contact me on Discord at pingui_8163. I'm always open to collaboration and connecting with fellow tech enthusiasts!
 
-# A litle funfact !
+## A little fun fact!
 
-I have an insatiable curiosity to learn something new every single day.
+I have an insatiable curiosity, and I make it a personal mission to learn something new every single day.
 
-# Ending
+## Conclusion
 
 Let's embark on this coding adventure together and create something amazing! 🚀
