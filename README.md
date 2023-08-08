@@ -7,9 +7,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=independent-coder&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-</div>
+
 <div align="center">
 <h1 align="center">Hi there! I'm Independent-coder 👋</h1>
 <img src="https://avatars.githubusercontent.com/u/127637860?v=4" alt="User Avatar" width="200" height="200">
