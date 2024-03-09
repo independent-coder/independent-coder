@@ -1,87 +1,29 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=independent-coder&color=red" alt="watching_count"/>
-  <img src="https://img.shields.io/github/stars/independent-coder?style=flat&logo=github&color=purple" alt="profile star">
-  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dindependent-coder&longCache=true"/>
-  <a href="https://GitHub.com/independent-coder/APP-REMINDER/issues/">
-    <img src="https://img.shields.io/github/issues/Naereen/StrapDown.js.svg" alt="GitHub issues">
-  </a>
-</div>
+<h1 align="center">Hey 👋, I'm P1NGU! </h1>
+<h3 align="center">I'm a boy that is passionate with technology and programation.</h3>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=independent-coder&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff0000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/independent-coder" alt="Total Stars" ></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/independent-coder" alt="Total Forks"></a> </p>
 
-<div align="center">
-<h1 align="center">Hi there! I'm Independent-coder 👋</h1>
-<img src="https://avatars.githubusercontent.com/u/127637860?v=4" alt="User Avatar" width="200" height="200">
-</div>
+---
 
+<h4 align="center">- About Me - </h4>
 
-<div align="center">
-  <h3>Also known as :</h3> 
-  <a href="https://www.youtube.com/channel/UCmRLV3Bga2Oo54sM-d3CJPg">
-    
-  <img src="https://img.shields.io/badge/Mr.Programs-blue?style=flat&logo=youtube" alt="Channel">
-  
-  </a>
-  
- 
-</div>
-<div align="center">
- <img src="https://yt3.googleusercontent.com/4FNXy1qMsxggQmlwTtyLIUwMi5gB_4L3STqbrx8Bsv61mBy7ydFjNYycrJBurg-HaEzppJMo=s176-c-k-c0x00ffffff-no-rj" alt="YouTube Avatar" width="176" height="176">
-</div>
-<h3 align="center">I'm a cool guy that does some cool tools for hacking and other stuff like that!</h3>
+- 💬 Ask me about: **Python Scripting, Windows API, Discord Bot/Webhooks and GDI MALWARE.**
 
-<div align="center">
-  <h1> What I'm working on?</h1>
-  <h3>🔭 Currently, I'm developing an exciting hacking tool project that can grab some account cookies 🍪.</h3>
-</div>
+---
 
-<div align="center">
-  <h1> What languages do I practice?</h1>
-  <h3>🌱 I'm always learning new skills, focusing primarily on Python, HTML, and CSS.</h3>
-  <h3>I really love using 
-    <a href="https://github.com/">
-      <img src="https://img.shields.io/badge/Github-8A2BE2?logo=GitHub" alt="GitHub">
-    </a>
-    because it's 
-    <a href="https://github.com/ellerbrock/open-source-badges/">
-      <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love">
-    </a>
-    !
-  </h3>
-</div>
+<h4 align="center">- Tools/Languages -</h4>
 
-<div align="center">
-  <h1> Questions about Python, CSS, Bash, or HTML?</h1>
-  <h3>💬 Feel free to ask me anything related to Python! Whether it's about solving a coding problem or understanding the language, I'm here to help.</h3>
-</div>
+<h3 align="center">Languages I know/understand:</h3>
+<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-<div align="center">
-  <h1> Where can you reach me?</h1>
-  <h3>📫 You can contact me on 
-    <a href="https://discord.com/">
-      <img src="https://badgen.net/badge/icon/discord?icon=discord&label" alt="Discord">
-    </a>
-    my name is 
-    <img src="https://img.shields.io/badge/pingui_8163-purple?style=flat" alt="pingui_8163">
-    .
-    I'm always open to collaboration and connecting with fellow tech enthusiasts!
-  </h3>
-</div>
+<h3 align="center">Tools I use:</h3>
+<p align="center"> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> </a>
 
-<div align="center">
-  <h1> Languages I Understand/Know<h1>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white" alt="Python Logo">
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS Logo">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5 Logo">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript Logo">
-  <img src="https://img.shields.io/badge/Batch-%23111111.svg?style=flat&logo=windows&logoColor=white" alt="Batch Logo">
-</div>
+---
 
-<div align="center">
-  <h1> A little fun fact! </h1>
-  <h1>I'm curious, and I make it a personal mission to learn something new every single day.</h1>
-</div>
-
-<div align="center">
-  <h1> Conclusion.</h1>
-  <h2>Let's start this coding journey together and create something amazing! 🚀</h2>
-</div>
+<h4 align="center">- My Discord Server - </h4>
+<p align="center"><iframe src="https://discord.com/widget?id=1215440725580324915&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
