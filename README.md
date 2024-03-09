@@ -26,4 +26,5 @@
 ---
 
 <h4 align="center">- My Discord Server - </h4>
-<p align="center"><iframe src="https://discord.com/widget?id=1215440725580324915&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<p align="center"> Join my discord server to get updates, news and support.</p>
+<p align="center"><a href="https://discord.gg/u3ccZkxm8h/">Join here .gg/u3ccZkxm8h/</a>.</p>
