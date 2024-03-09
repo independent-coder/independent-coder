@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm P1NGU! </h1>
+<h1 align="center">Hey 👋, I'm P1NGU!(independent-coder) </h1>
 <h3 align="center">I'm a boy that is passionate with technology and programation.</h3>
 
 <p align="center">
